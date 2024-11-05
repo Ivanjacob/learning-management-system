@@ -1,0 +1,19 @@
+.profile-card {
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    width: 250px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.calendar {
+    margin-top: 20px;
+}
